@@ -80,7 +80,7 @@ Para entregar este projeto
 
 ```bash
 Para entrega, o aluno deverá elaborar um único relatório (Jupyter Notebook) com os resultados das atividades solicitadas.
-A entrega deve ser realizada pelo Teams da disciplina em um único arquivo no formato .ipynb identificado como f“{RM}_{NOME}_202302_CP2.ipynb”, onde “NOME” e "RM" devem ser substituídos pelos dados do aluno que elaborou o arquivo.
+A entrega deve ser realizada pelo Teams da disciplina em um único arquivo no formato .ipynb identificado como f“{RM}_{NOME}_202401_CP2.ipynb”, onde “NOME” e "RM" devem ser substituídos pelos dados do aluno que elaborou o arquivo.
 ```
 
 • As análises devem conter o código utilizado e suas respectivas considerações utilizando Markdown para explicar as análises.
